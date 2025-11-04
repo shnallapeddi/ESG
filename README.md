@@ -4,7 +4,7 @@ Environmental, Social, and Corporate Governance (ESG) is an evaluation framework
 ESG typically translates into a composite score — derived from diverse data sources and metrics — that reflects how responsibly an organization manages its environmental footprint, treats its people, and governs itself.
 These metrics often involve intangible assets such as corporate ethics, transparency, diversity, and sustainability impact, which together influence investor confidence and long-term valuation.
 
-### Case in Point — Apple Inc.
+### Case in Point - Apple Inc.
 
 Apple serves as a striking example of how ESG dynamics unfold in the real world.
 Despite being rated as an ESG Leader in “Controversial Sourcing” by MSCI, Apple was named in a 2019 U.S. lawsuit (alongside Google) over child labor–related cobalt mining deaths in Congo, as reported by The Guardian.
